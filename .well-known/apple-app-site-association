@@ -1,0 +1,12 @@
+{
+    "applinks": {
+        "details" : [
+            {
+               "appIDs": ["R777T775T9.io.l18.app.annonces"],
+               "components": [{
+                   "/": "*"
+               }]
+            }
+        ] 
+    }
+}
