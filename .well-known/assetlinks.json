@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.l18.app.annonces",
+    "sha256_cert_fingerprints":
+    ["9E:7D:FF:7B:98:98:BE:3F:8D:CD:F5:10:C4:BF:CE:26:B1:13:AE:21:4E:96:AC:51:DD:2E:39:8B:08:D8:72:E9"]
+  }
+}]
